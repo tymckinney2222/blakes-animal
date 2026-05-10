@@ -1,0 +1,19 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Soft cream rounded background -->
+  <rect x="16" y="16" width="480" height="480" rx="96" fill="#fff5e6"/>
+
+  <!-- 4 rainbow toe pads -->
+  <g stroke="#2c1a0e" stroke-width="6">
+    <ellipse cx="138" cy="170" rx="44" ry="56" fill="#e91e63"/>
+    <ellipse cx="216" cy="108" rx="42" ry="54" fill="#ff9800"/>
+    <ellipse cx="296" cy="108" rx="42" ry="54" fill="#fdd835"/>
+    <ellipse cx="374" cy="170" rx="44" ry="56" fill="#4caf50"/>
+  </g>
+
+  <!-- Big main pad in blue/purple -->
+  <ellipse cx="256" cy="360" rx="118" ry="100" fill="#2196f3" stroke="#2c1a0e" stroke-width="6"/>
+
+  <!-- Tiny heart highlight on the main pad (sparkle) -->
+  <path d="M 256 332 C 246 322, 226 322, 226 342 C 226 360, 256 380, 256 380 C 256 380, 286 360, 286 342 C 286 322, 266 322, 256 332 Z"
+        fill="#fff5e6" opacity="0.85"/>
+</svg>
